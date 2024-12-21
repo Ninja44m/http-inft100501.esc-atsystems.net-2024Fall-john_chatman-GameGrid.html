@@ -1,0 +1,66 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+
+body {
+    background-color: rgb(53, 75, 75);
+    background-image: url(Image/Screenshot\ 2024-11-24\ 231602.png );
+}
+
+
+
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.338);
+    text-align: center;
+}
+
+main {
+    background-color: white;
+    height: 900px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.728);
+    height: 100px;
+}
+
+
+h1 {
+  font-size: 84px;
+  color: white
+  font-family 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+
+p {
+  font-size: 18px;
+  color: ghostwhite
+  font-family Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+footer p {
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
